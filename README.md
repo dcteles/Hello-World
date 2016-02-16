@@ -1,2 +1,2 @@
 # Hello-World
-Random storage
+Storage of Raspberry Pi code
